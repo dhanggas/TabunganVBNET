@@ -1,0 +1,29 @@
+E:\Project VBNET\Tabungan\bin\Debug\Tabungan.exe
+E:\Project VBNET\Tabungan\bin\Debug\Tabungan.pdb
+E:\Project VBNET\Tabungan\bin\Debug\Tabungan.xml
+E:\Project VBNET\Tabungan\obj\Debug\ResolveAssemblyReference.cache
+E:\Project VBNET\Tabungan\obj\Debug\Tabungan.Resources.resources
+E:\Project VBNET\Tabungan\obj\Debug\Tabungan.vbproj.GenerateResource.Cache
+E:\Project VBNET\Tabungan\obj\Debug\Tabungan.exe
+E:\Project VBNET\Tabungan\obj\Debug\Tabungan.xml
+E:\Project VBNET\Tabungan\obj\Debug\Tabungan.pdb
+E:\Project VBNET\Tabungan\obj\Debug\Tabungan.f_MenuUtama.resources
+E:\Project VBNET\Tabungan\obj\Debug\Tabungan.f_Login.resources
+E:\Project_VBNET\Tabungan\obj\Debug\Tabungan.exe
+E:\Project_VBNET\Tabungan\obj\Debug\Tabungan.xml
+E:\Project_VBNET\Tabungan\obj\Debug\Tabungan.pdb
+E:\Project_VBNET\Tabungan\bin\Debug\Tabungan.exe
+E:\Project_VBNET\Tabungan\bin\Debug\Tabungan.pdb
+E:\Project_VBNET\Tabungan\bin\Debug\Tabungan.xml
+E:\Project_VBNET\Tabungan\obj\Debug\ResolveAssemblyReference.cache
+E:\Project_VBNET\Tabungan\obj\Debug\Tabungan.f_Login.resources
+E:\Project_VBNET\Tabungan\obj\Debug\Tabungan.f_MenuUtama.resources
+E:\Project_VBNET\Tabungan\obj\Debug\Tabungan.Resources.resources
+E:\Project_VBNET\Tabungan\obj\Debug\Tabungan.vbproj.GenerateResource.Cache
+E:\Project_VBNET\Tabungan\obj\Debug\Tabungan.f_TambahPengguna.resources
+E:\Project_VBNET\Tabungan\obj\Debug\Tabungan.f_PenggunaControl.resources
+E:\Project_VBNET\Tabungan\obj\Debug\Tabungan.f_LihatPengguna.resources
+E:\Project_VBNET\Tabungan\obj\Debug\Tabungan.f_DataSiswa.resources
+E:\Project_VBNET\Tabungan\obj\Debug\Tabungan.f_Setoran.resources
+E:\Project_VBNET\Tabungan\obj\Debug\Tabungan.f_CariSiswa.resources
+E:\Project_VBNET\Tabungan\obj\Debug\Tabungan.f_Pengambilan.resources
