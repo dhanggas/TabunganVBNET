@@ -147,7 +147,7 @@ Public Class f_DataSiswa
         If txtSaldo.Text = "" Then
             MsgBox("Tidak Ada Data Yang Akan Di Cetak", MsgBoxStyle.Information, "Pesan")
         Else
-            'f_PrintSiswa.Show()
+            f_PrintSiswa.Show()
         End If
     End Sub
 
@@ -192,5 +192,9 @@ Public Class f_DataSiswa
         cmbKet.Enabled = True
         btn_keluar.Enabled = True
         btn_simpan.Enabled = True
+    End Sub
+
+    Private Sub Label11_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
+
     End Sub
 End Class

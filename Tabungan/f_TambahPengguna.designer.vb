@@ -111,7 +111,7 @@ Partial Class f_TambahPengguna
         'btnSimpan
         '
         Me.btnSimpan.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.btnSimpan.Location = New System.Drawing.Point(30, 189)
+        Me.btnSimpan.Location = New System.Drawing.Point(16, 189)
         Me.btnSimpan.Name = "btnSimpan"
         Me.btnSimpan.Size = New System.Drawing.Size(81, 42)
         Me.btnSimpan.TabIndex = 8
@@ -131,7 +131,7 @@ Partial Class f_TambahPengguna
         'btnKeluar
         '
         Me.btnKeluar.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.btnKeluar.Location = New System.Drawing.Point(207, 189)
+        Me.btnKeluar.Location = New System.Drawing.Point(222, 189)
         Me.btnKeluar.Name = "btnKeluar"
         Me.btnKeluar.Size = New System.Drawing.Size(81, 42)
         Me.btnKeluar.TabIndex = 10

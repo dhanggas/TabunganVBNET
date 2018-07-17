@@ -23,12 +23,12 @@
     End Sub
 
     Private Sub LaporanSetoranToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles LaporanSetoranToolStripMenuItem.Click
-        ' f_ReportSetorDate.Show()
-        ' f_ReportSetorDate.MdiParent = Me
+        f_SetorRange.Show()
+        'f_ReportSetorDate.MdiParent = Me
     End Sub
    
     Private Sub LaporanPengambilanTanggalToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles LaporanPengambilanTanggalToolStripMenuItem.Click
-        ' f_ReportAmbilDate.Show()
+        f_AmbilRange.Show()
         'f_ReportAmbilDate.MdiParent = Me
     End Sub
 

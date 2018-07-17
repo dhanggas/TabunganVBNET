@@ -27,3 +27,8 @@ E:\Project_VBNET\Tabungan\obj\Debug\Tabungan.f_DataSiswa.resources
 E:\Project_VBNET\Tabungan\obj\Debug\Tabungan.f_Setoran.resources
 E:\Project_VBNET\Tabungan\obj\Debug\Tabungan.f_CariSiswa.resources
 E:\Project_VBNET\Tabungan\obj\Debug\Tabungan.f_Pengambilan.resources
+E:\Project_VBNET\Tabungan\obj\Debug\Tabungan.f_PrintSiswa.resources
+E:\Project_VBNET\Tabungan\obj\Debug\Tabungan.f_ReportSetorDate.resources
+E:\Project_VBNET\Tabungan\obj\Debug\Tabungan.f_ReportAmbilDate.resources
+E:\Project_VBNET\Tabungan\obj\Debug\Tabungan.f_SetorRange.resources
+E:\Project_VBNET\Tabungan\obj\Debug\Tabungan.f_AmbilRange.resources

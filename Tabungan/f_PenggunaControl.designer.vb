@@ -94,7 +94,7 @@ Partial Class f_PenggunaControl
         'Button1
         '
         Me.Button1.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.Button1.Location = New System.Drawing.Point(22, 189)
+        Me.Button1.Location = New System.Drawing.Point(10, 189)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(75, 40)
         Me.Button1.TabIndex = 13
@@ -149,7 +149,7 @@ Partial Class f_PenggunaControl
         'btnKeluar
         '
         Me.btnKeluar.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.btnKeluar.Location = New System.Drawing.Point(184, 189)
+        Me.btnKeluar.Location = New System.Drawing.Point(201, 189)
         Me.btnKeluar.Name = "btnKeluar"
         Me.btnKeluar.Size = New System.Drawing.Size(75, 40)
         Me.btnKeluar.TabIndex = 15

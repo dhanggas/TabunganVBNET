@@ -51,7 +51,6 @@ Partial Class f_DataSiswa
         Me.btnReport = New System.Windows.Forms.Button
         Me.txtSaldo = New System.Windows.Forms.TextBox
         Me.txtNIS = New System.Windows.Forms.TextBox
-        Me.Label11 = New System.Windows.Forms.Label
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.Panel1.SuspendLayout()
         Me.SuspendLayout()
@@ -315,12 +314,13 @@ Partial Class f_DataSiswa
         '
         Me.btnReport.BackColor = System.Drawing.Color.White
         Me.btnReport.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.btnReport.Font = New System.Drawing.Font("Trebuchet MS", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnReport.Font = New System.Drawing.Font("Tempus Sans ITC", 14.25!)
         Me.btnReport.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
         Me.btnReport.Location = New System.Drawing.Point(495, 82)
         Me.btnReport.Name = "btnReport"
         Me.btnReport.Size = New System.Drawing.Size(241, 143)
         Me.btnReport.TabIndex = 32
+        Me.btnReport.Text = "Print Data Siswa"
         Me.btnReport.UseVisualStyleBackColor = False
         '
         'txtSaldo
@@ -330,6 +330,7 @@ Partial Class f_DataSiswa
         Me.txtSaldo.Name = "txtSaldo"
         Me.txtSaldo.Size = New System.Drawing.Size(10, 20)
         Me.txtSaldo.TabIndex = 33
+        Me.txtSaldo.Text = "Print Data Siswa" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
         '
         'txtNIS
         '
@@ -338,17 +339,6 @@ Partial Class f_DataSiswa
         Me.txtNIS.Size = New System.Drawing.Size(133, 20)
         Me.txtNIS.TabIndex = 10
         '
-        'Label11
-        '
-        Me.Label11.AutoSize = True
-        Me.Label11.BackColor = System.Drawing.SystemColors.Control
-        Me.Label11.Font = New System.Drawing.Font("Tempus Sans ITC", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label11.Location = New System.Drawing.Point(604, 87)
-        Me.Label11.Name = "Label11"
-        Me.Label11.Size = New System.Drawing.Size(128, 20)
-        Me.Label11.TabIndex = 34
-        Me.Label11.Text = "Print Data Kolom"
-        '
         'f_DataSiswa
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -356,7 +346,6 @@ Partial Class f_DataSiswa
         Me.BackColor = System.Drawing.Color.CornflowerBlue
         Me.ClientSize = New System.Drawing.Size(743, 575)
         Me.ControlBox = False
-        Me.Controls.Add(Me.Label11)
         Me.Controls.Add(Me.txtSaldo)
         Me.Controls.Add(Me.btnReport)
         Me.Controls.Add(Me.Panel1)
@@ -426,5 +415,4 @@ Partial Class f_DataSiswa
     Friend WithEvents btnReport As System.Windows.Forms.Button
     Friend WithEvents txtSaldo As System.Windows.Forms.TextBox
     Friend WithEvents txtNIS As System.Windows.Forms.TextBox
-    Friend WithEvents Label11 As System.Windows.Forms.Label
 End Class

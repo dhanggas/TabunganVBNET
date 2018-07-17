@@ -11,7 +11,7 @@ Module Modul_Koneksi
     Public DT As DataTable
     Public Sub Koneksi()
         Dim SQLConn As String
-        SQLConn = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=E:\Project_VBNET\Tabungan\bin\Debug\dbtabungan.mdb;"
+        SQLConn = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=dbtabungan.mdb;"
         Conn = New OleDbConnection(SQLConn)
         If Conn.State = ConnectionState.Closed Then
             Conn.Open()
