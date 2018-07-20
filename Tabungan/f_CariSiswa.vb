@@ -85,7 +85,7 @@ Public Class f_CariSiswa
             f_Pengambilan.lbNama_Siswa.Text = gridbaris.Cells(1).Value.ToString
             f_Pengambilan.lbKelas.Text = gridbaris.Cells(5).Value.ToString
             f_Pengambilan.LbSaldo_Awal.Text = gridbaris.Cells(8).Value.ToString
-            Me.Hide()
+            Me.Dispose()
         Catch ex As Exception
             MsgBox("Pilih yang ada di dalam tabel")
         End Try
@@ -93,5 +93,9 @@ Public Class f_CariSiswa
 
     Private Sub btnKeluar_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnKeluar.Click
         Me.Close()
+    End Sub
+
+    Private Sub DataGridView1_CellContentClick(ByVal sender As System.Object, ByVal e As System.Windows.Forms.DataGridViewCellEventArgs) Handles DataGridView1.CellContentClick
+
     End Sub
 End Class
